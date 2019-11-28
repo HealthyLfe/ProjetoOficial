@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Receitas"
+        android:icon="@drawable/receita"
+        android:id="@+id/navigation_adm_receita"
+        />
+
+    <item
+        android:title="Exercício"
+        android:icon="@drawable/ic_exercicio"
+        android:id="@+id/navigation_adm_exercicio"
+        />
+
+    <item
+        android:title="Perfil"
+        android:icon="@drawable/ic_perfil"
+        android:id="@+id/navigation_adm_perfil"
+        />
+
+
+</menu>
